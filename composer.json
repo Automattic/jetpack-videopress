@@ -38,6 +38,7 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
+		"mirror-repo": "Automattic/jetpack-videopress",
 		"branch-alias": {
 			"dev-trunk": "0.1.x-dev"
 		},
