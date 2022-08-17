@@ -36,9 +36,17 @@
 		"webpack-cli": "4.9.1"
 	},
 	"dependencies": {
+		"@automattic/jetpack-base-styles": "^0.3",
+		"@automattic/jetpack-components": "^0.18",
+		"@automattic/jetpack-connection": "^0.18",
+		"@wordpress/data": "6.12.0",
+		"@wordpress/element": "4.10.0",
+		"@wordpress/date": "4.12.0",
+		"@wordpress/i18n": "4.12.0",
+		"react": "17.0.2",
+		"react-dom": "17.0.2",
 		"@wordpress/icons": "9.3.0",
 		"classnames": "2.3.1",
-		"concurrently": "7.3.0",
 		"debug": "4.3.4",
 		"filesize": "8.0.6",
 		"tus-js-client": "2.3.0"
