@@ -40,10 +40,6 @@
 		"webpack": "5.72.1",
 		"webpack-cli": "4.9.1"
 	},
-	"sideEffects": [
-		"*.css",
-		"*.scss"
-	],
 	"dependencies": {
 		"@automattic/jetpack-base-styles": "^0.3",
 		"@automattic/jetpack-components": "^0.18",
