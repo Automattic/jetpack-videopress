@@ -56,7 +56,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-base-styles": "^0.3",
-		"@automattic/jetpack-components": "^0.18",
+		"@automattic/jetpack-components": "^0.19",
 		"@automattic/jetpack-connection": "^0.18",
 		"@storybook/addon-actions": "6.5.10",
 		"@wordpress/components": "20.0.0",
