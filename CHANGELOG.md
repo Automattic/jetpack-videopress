@@ -10,12 +10,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- VideoPress: add connect banner when user is not connected
 - VideoPress: do not prompt to convert embed block to VideoPress video block
 - VideoPress: do not request video data when user is not connected
 - VideoPress: improve buildVideoPressURL(). Add tests.
 
 ### Changed
 - Block bundling: sunset existing methods in favor of new `JETPACK_BLOCKS_VARIATION` constant
+- VideoPress: Prevent flash of initial state when there are search params
 - VideoPress: remove undesired border of the video player
 - VideoPress: tweak uploader layout of the VideoPress video block
 
