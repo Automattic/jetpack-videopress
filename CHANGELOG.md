@@ -9,11 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- VideoPress: Register block for native
+
 ### Changed
 - Update to React 18.
+- VideoPress: do not use JS template to build queryString of the chapter file to avoid concat_js=no issues
 
 ### Fixed
 - VideoPress: Fix custom CSS classes removal
+- VideoPress: Fix image URLs in the block editor
 
 ## [0.10.9] - 2023-02-08
 ### Added
