@@ -5,12 +5,25 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.13.2] - 2023-03-28
+## [0.13.4-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- VideoPress: handle poster image generation state
+
+### Changed
+- VideoPress: use WP COM API to generate poster image for simple sites
+
+## [0.13.3] - 2023-03-28
+### Added
+- VideoPress: generate video image when selecting poster from frame [#29738]
+
+## [0.13.2] - 2023-03-27
 ### Added
 - Add basic native supported player [#29478]
 - VideoPress: Added Stats module to the list of enabled modules for the standalone VP plugin. [#29668]
 - VideoPress: add frame selector to Poster panel [#29688]
-- VideoPress: generate video image when selecting poster from frame [#29738]
 - VideoPress: store poster data into video block attribute [#29718]
 - VideoPress block: Add Privacy and Rating panel to native block's settings. [#29477]
 - VideoPress block: Add replace functionality for the native version of the block. [#29662]
@@ -843,6 +856,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Created empty package [#24952]
 
+[0.13.4-alpha]: https://github.com/Automattic/jetpack-videopress/compare/v0.13.3...v0.13.4-alpha
+[0.13.3]: https://github.com/Automattic/jetpack-videopress/compare/v0.13.2...v0.13.3
 [0.13.2]: https://github.com/Automattic/jetpack-videopress/compare/v0.13.1...v0.13.2
 [0.13.1]: https://github.com/Automattic/jetpack-videopress/compare/v0.13.0...v0.13.1
 [0.13.0]: https://github.com/Automattic/jetpack-videopress/compare/v0.12.1...v0.13.0
