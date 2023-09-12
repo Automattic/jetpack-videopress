@@ -58,7 +58,7 @@
 		"@automattic/jetpack-analytics": "^0.1.27",
 		"@automattic/jetpack-api": "^0.16.2",
 		"@automattic/jetpack-base-styles": "^0.6.9",
-		"@automattic/jetpack-components": "^0.42.2",
+		"@automattic/jetpack-components": "^0.42.3-alpha",
 		"@automattic/jetpack-connection": "^0.29.9",
 		"@automattic/jetpack-shared-extension-utils": "^0.11.4",
 		"@storybook/addon-actions": "7.1.0",
