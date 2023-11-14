@@ -55,7 +55,7 @@
 		"webpack-cli": "4.9.1"
 	},
 	"dependencies": {
-		"@automattic/jetpack-analytics": "^0.1.27",
+		"@automattic/jetpack-analytics": "^0.1.28-alpha",
 		"@automattic/jetpack-api": "^0.16.5-alpha",
 		"@automattic/jetpack-base-styles": "^0.6.12-alpha",
 		"@automattic/jetpack-components": "^0.45.1-alpha",
