@@ -59,7 +59,7 @@
 		"@automattic/jetpack-api": "^0.16.8",
 		"@automattic/jetpack-base-styles": "^0.6.15",
 		"@automattic/jetpack-components": "^0.46.0-alpha",
-		"@automattic/jetpack-connection": "^0.30.12",
+		"@automattic/jetpack-connection": "^0.31.0-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.13.8",
 		"@storybook/addon-actions": "7.6.5",
 		"@wordpress/api-fetch": "6.45.0",
