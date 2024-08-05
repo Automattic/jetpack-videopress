@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "@automattic/jetpack-videopress",
-	"version": "0.23.30-alpha",
+	"version": "0.23.30",
 	"description": "VideoPress package",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/videopress/#readme",
 	"bugs": {
@@ -59,7 +59,7 @@
 		"@automattic/jetpack-analytics": "^0.1.29",
 		"@automattic/jetpack-api": "^0.17.9",
 		"@automattic/jetpack-base-styles": "^0.6.28",
-		"@automattic/jetpack-components": "^0.55.5-alpha",
+		"@automattic/jetpack-components": "^0.55.5",
 		"@automattic/jetpack-connection": "^0.34.1",
 		"@automattic/jetpack-shared-extension-utils": "^0.15.1",
 		"@storybook/addon-actions": "8.1.6",
