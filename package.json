@@ -60,7 +60,7 @@
 		"@automattic/jetpack-api": "^0.17.13",
 		"@automattic/jetpack-base-styles": "^0.6.32",
 		"@automattic/jetpack-components": "^0.56.0",
-		"@automattic/jetpack-connection": "^0.35.9",
+		"@automattic/jetpack-connection": "^0.35.10-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.15.11-alpha",
 		"@wordpress/api-fetch": "7.7.0",
 		"@wordpress/blob": "4.7.0",
