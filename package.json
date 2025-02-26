@@ -61,10 +61,10 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.36",
-		"@automattic/jetpack-api": "^0.19.0",
+		"@automattic/jetpack-api": "^0.20.0-alpha",
 		"@automattic/jetpack-base-styles": "^0.6.43",
 		"@automattic/jetpack-components": "^0.67.1",
-		"@automattic/jetpack-connection": "^0.37.1-alpha",
+		"@automattic/jetpack-connection": "^0.38.0-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.17.3",
 		"@wordpress/api-fetch": "7.17.0",
 		"@wordpress/blob": "4.17.0",
