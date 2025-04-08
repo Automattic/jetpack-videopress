@@ -25,7 +25,7 @@
 	},
 	"devDependencies": {
 		"@automattic/calypso-color-schemes": "4.0.0",
-		"@automattic/jetpack-base-styles": "^0.7.0",
+		"@automattic/jetpack-base-styles": "^0.7.1-alpha",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@automattic/jetpack-shared-extension-utils": "^0.18.11",
 		"@babel/core": "7.26.10",
@@ -63,9 +63,9 @@
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.36",
 		"@automattic/jetpack-api": "^0.20.1",
-		"@automattic/jetpack-base-styles": "^0.7.0",
-		"@automattic/jetpack-components": "^0.72.3",
-		"@automattic/jetpack-connection": "^0.39.10",
+		"@automattic/jetpack-base-styles": "^0.7.1-alpha",
+		"@automattic/jetpack-components": "^0.72.4-alpha",
+		"@automattic/jetpack-connection": "^0.39.11-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.18.11",
 		"@wordpress/api-fetch": "7.21.0",
 		"@wordpress/blob": "4.21.0",
