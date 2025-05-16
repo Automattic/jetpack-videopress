@@ -28,7 +28,7 @@
 		"@automattic/jetpack-base-styles": "^0.7.4",
 		"@automattic/jetpack-shared-extension-utils": "^0.20.0-alpha",
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@automattic/number-formatters": "^1.0.1",
+		"@automattic/number-formatters": "^1.0.2-alpha",
 		"@babel/core": "7.26.10",
 		"@babel/preset-react": "7.26.3",
 		"@csstools/postcss-global-data": "2.1.1",
