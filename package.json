@@ -62,7 +62,7 @@
 		"webpack-cli": "6.0.1"
 	},
 	"dependencies": {
-		"@automattic/jetpack-analytics": "^0.1.36",
+		"@automattic/jetpack-analytics": "^0.1.37-alpha",
 		"@automattic/jetpack-api": "^0.20.3",
 		"@automattic/jetpack-base-styles": "^0.8.0-alpha",
 		"@automattic/jetpack-components": "^0.73.4-alpha",
@@ -85,7 +85,7 @@
 		"@wordpress/icons": "10.24.0",
 		"@wordpress/url": "4.24.0",
 		"clsx": "2.1.1",
-		"debug": "4.4.0",
+		"debug": "4.4.1",
 		"filesize": "10.1.6",
 		"react": "18.3.1",
 		"react-dom": "18.3.1",
