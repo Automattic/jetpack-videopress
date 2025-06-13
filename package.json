@@ -65,7 +65,7 @@
 		"@automattic/jetpack-analytics": "^1.0.0",
 		"@automattic/jetpack-api": "^1.0.0",
 		"@automattic/jetpack-base-styles": "^1.0.0",
-		"@automattic/jetpack-components": "^1.1.1",
+		"@automattic/jetpack-components": "^1.1.2-alpha",
 		"@automattic/jetpack-connection": "^1.2.1",
 		"@automattic/jetpack-shared-extension-utils": "^1.1.0-alpha",
 		"@wordpress/api-fetch": "7.24.0",
@@ -89,7 +89,7 @@
 		"filesize": "10.1.6",
 		"react": "18.3.1",
 		"react-dom": "18.3.1",
-		"react-router-dom": "7.6.2",
+		"react-router": "7.6.2",
 		"tus-js-client": "4.2.3"
 	}
 }
