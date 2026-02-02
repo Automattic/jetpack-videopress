@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-videopress",
-	"version": "0.33.4-alpha",
+	"version": "0.33.4",
 	"private": true,
 	"description": "VideoPress package",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/videopress/#readme",
@@ -26,9 +26,9 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^1.0.7",
-		"@automattic/jetpack-api": "^1.0.16-alpha",
-		"@automattic/jetpack-components": "^1.4.9-alpha",
-		"@automattic/jetpack-connection": "^1.4.30-alpha",
+		"@automattic/jetpack-api": "^1.0.16",
+		"@automattic/jetpack-components": "^1.4.9",
+		"@automattic/jetpack-connection": "^1.4.30",
 		"@automattic/jetpack-script-data": "^0.5.4",
 		"@wordpress/api-fetch": "7.39.0",
 		"@wordpress/blob": "4.39.0",
@@ -60,8 +60,8 @@
 	},
 	"devDependencies": {
 		"@automattic/calypso-color-schemes": "4.0.0",
-		"@automattic/jetpack-base-styles": "^1.0.15-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^1.4.8-alpha",
+		"@automattic/jetpack-base-styles": "^1.0.15",
+		"@automattic/jetpack-shared-extension-utils": "^1.4.8",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@automattic/number-formatters": "^1.0.16",
 		"@babel/core": "7.28.4",
