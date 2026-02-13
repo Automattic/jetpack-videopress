@@ -63,7 +63,7 @@
 		"@automattic/jetpack-base-styles": "^1.0.16-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^1.4.12-alpha",
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@automattic/number-formatters": "^1.0.17-alpha",
+		"@automattic/number-formatters": "^1.0.17",
 		"@babel/core": "7.29.0",
 		"@babel/preset-react": "7.28.5",
 		"@csstools/postcss-global-data": "2.1.1",
