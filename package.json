@@ -61,7 +61,7 @@
 	"devDependencies": {
 		"@automattic/calypso-color-schemes": "4.0.0",
 		"@automattic/jetpack-base-styles": "^1.0.17",
-		"@automattic/jetpack-shared-extension-utils": "^1.4.13",
+		"@automattic/jetpack-shared-extension-utils": "^1.5.0-alpha",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@automattic/number-formatters": "^1.0.18",
 		"@babel/core": "7.29.0",
