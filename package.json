@@ -29,7 +29,7 @@
 		"@automattic/jetpack-api": "^1.0.18-alpha",
 		"@automattic/jetpack-components": "^1.4.16-alpha",
 		"@automattic/jetpack-connection": "^1.4.37-alpha",
-		"@automattic/jetpack-script-data": "^0.5.5",
+		"@automattic/jetpack-script-data": "^0.6.0-alpha",
 		"@wordpress/api-fetch": "7.40.0",
 		"@wordpress/blob": "4.40.0",
 		"@wordpress/block-editor": "15.13.1",
