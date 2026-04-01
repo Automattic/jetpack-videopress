@@ -27,7 +27,7 @@
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^1.0.9",
 		"@automattic/jetpack-api": "^1.0.21",
-		"@automattic/jetpack-components": "^1.7.1-alpha",
+		"@automattic/jetpack-components": "^1.8.0-alpha",
 		"@automattic/jetpack-connection": "^1.4.43-alpha",
 		"@automattic/jetpack-script-data": "^0.6.1",
 		"@wordpress/api-fetch": "7.42.0",
