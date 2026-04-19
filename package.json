@@ -60,7 +60,7 @@
 	},
 	"devDependencies": {
 		"@automattic/calypso-color-schemes": "4.0.0",
-		"@automattic/jetpack-base-styles": "^1.0.22-alpha",
+		"@automattic/jetpack-base-styles": "^1.1.0-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^1.5.10-alpha",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@automattic/number-formatters": "^1.1.6",
