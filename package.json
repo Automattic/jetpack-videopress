@@ -25,7 +25,7 @@
 		"watch": "pnpm build && pnpm build-client --watch"
 	},
 	"dependencies": {
-		"@automattic/jetpack-analytics": "^1.0.9",
+		"@automattic/jetpack-analytics": "^1.0.10-alpha",
 		"@automattic/jetpack-api": "^1.0.23",
 		"@automattic/jetpack-components": "^1.8.3",
 		"@automattic/jetpack-connection": "^1.4.46",
