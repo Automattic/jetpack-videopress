@@ -67,7 +67,7 @@
 	},
 	"devDependencies": {
 		"@automattic/calypso-color-schemes": "4.0.0",
-		"@automattic/jetpack-base-styles": "^1.2.0",
+		"@automattic/jetpack-base-styles": "^1.2.1-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^1.5.13-alpha",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@automattic/jetpack-wp-build-polyfills": "^0.1.6",
