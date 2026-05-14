@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-videopress",
-	"version": "0.36.9-alpha",
+	"version": "0.36.9",
 	"private": true,
 	"description": "VideoPress package",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/videopress/#readme",
@@ -30,11 +30,11 @@
 		"watch:wp-build": "wp-build --watch"
 	},
 	"dependencies": {
-		"@automattic/charts": "^1.4.0-alpha",
+		"@automattic/charts": "^1.4.0",
 		"@automattic/jetpack-analytics": "^1.0.11",
 		"@automattic/jetpack-api": "^1.0.24",
-		"@automattic/jetpack-components": "^1.11.1-alpha",
-		"@automattic/jetpack-connection": "^1.4.50-alpha",
+		"@automattic/jetpack-components": "^1.11.1",
+		"@automattic/jetpack-connection": "^1.4.50",
 		"@automattic/jetpack-script-data": "^0.6.3",
 		"@tanstack/react-query": "5.90.8",
 		"@wordpress/admin-ui": "2.0.0",
@@ -73,10 +73,10 @@
 	},
 	"devDependencies": {
 		"@automattic/calypso-color-schemes": "4.0.0",
-		"@automattic/jetpack-base-styles": "^1.2.2-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^1.5.14-alpha",
+		"@automattic/jetpack-base-styles": "^1.2.2",
+		"@automattic/jetpack-shared-extension-utils": "^1.5.14",
 		"@automattic/jetpack-webpack-config": "workspace:*",
-		"@automattic/jetpack-wp-build-polyfills": "^0.1.8-alpha",
+		"@automattic/jetpack-wp-build-polyfills": "^0.1.8",
 		"@automattic/number-formatters": "^1.1.7",
 		"@babel/core": "7.29.0",
 		"@babel/preset-react": "7.28.5",
