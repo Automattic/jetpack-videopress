@@ -5,19 +5,19 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-admin-ui": "^0.8.8",
-		"automattic/jetpack-assets": "^4.3.39",
-		"automattic/jetpack-connection": "^8.5.2",
+		"automattic/jetpack-admin-ui": "^0.8.9-alpha",
+		"automattic/jetpack-assets": "^4.3.40-alpha",
+		"automattic/jetpack-connection": "^8.5.3-alpha",
 		"automattic/jetpack-my-jetpack": "^5.37.7-alpha",
-		"automattic/jetpack-plans": "^0.11.7",
-		"automattic/jetpack-status": "^6.1.5",
+		"automattic/jetpack-plans": "^0.11.8-alpha",
+		"automattic/jetpack-status": "^6.1.6-alpha",
 		"automattic/jetpack-wp-build-polyfills": "^0.1.12-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/jetpack-test-environment": "@dev",
 		"brain/monkey": "^2.6.2",
-		"automattic/phpunit-select-config": "^1.0.6"
+		"automattic/phpunit-select-config": "^1.0.7-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
@@ -31,13 +31,11 @@
 		"phpunit": [
 			"phpunit-select-config phpunit.#.xml.dist --colors=always"
 		],
-		"test-coverage": "pnpm concurrently --names php,js 'php -dpcov.directory=. ./vendor/bin/phpunit-select-config phpunit.#.xml.dist --coverage-php \"$COVERAGE_DIR/php.cov\"' 'pnpm:test-coverage'",
-		"test-php": [
-			"@composer phpunit"
-		],
-		"test-js": [
-			"pnpm run test"
-		],
+		"test-coverage": "pnpm concurrently --names php,js 'composer test-php-coverage' 'composer test-js-coverage'",
+		"test-js": "pnpm run test",
+		"test-js-coverage": "pnpm run test-coverage",
+		"test-php": "@composer phpunit",
+		"test-php-coverage": "php -dpcov.directory=. ./vendor/bin/phpunit-select-config phpunit.#.xml.dist --coverage-php \"$COVERAGE_DIR/php.cov\"",
 		"build-production": [
 			"pnpm run build-production"
 		],
