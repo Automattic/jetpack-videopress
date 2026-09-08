@@ -9,14 +9,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Add a site-wide setting to turn off player preloading for every embed.
+
 ### Changed
 - Dashboard: Open the file picker directly from the welcome modal's Upload a video button, then land on the Library to follow the upload's progress.
 - Update package dependencies.
 
 ### Fixed
+- Avoid free-plan limits and upgrade prompts when site features cannot be loaded.
 - Dashboard: Make the welcome=1 review parameter reopen the welcome modal after it has been dismissed.
 - Fix the dashboard rendering blank on WordPress 7.0.x, where the welcome modal crashed on the missing public ThemeProvider export.
 - Playlist block: Wrap long unbroken video titles and decode HTML entities in titles on the front end.
+- VideoPress: Register the "Add to a post or page" default content handler when the Jetpack VideoPress module is active, not only when the standalone plugin is present.
 
 ## [0.49.0] - 2026-09-01
 ### Added
