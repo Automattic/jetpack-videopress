@@ -5,13 +5,13 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.4",
-		"automattic/jetpack-admin-ui": "^0.14.3",
-		"automattic/jetpack-assets": "^5.0.9",
-		"automattic/jetpack-connection": "^9.10.0-alpha",
+		"automattic/jetpack-admin-ui": "^0.14.4",
+		"automattic/jetpack-assets": "^5.0.10",
+		"automattic/jetpack-connection": "^9.11.0-alpha",
 		"automattic/jetpack-my-jetpack": "^6.10.0-alpha",
 		"automattic/jetpack-plans": "^0.14.1",
 		"automattic/jetpack-status": "^7.1.0",
-		"automattic/jetpack-wp-build-polyfills": "^0.6.2-alpha"
+		"automattic/jetpack-wp-build-polyfills": "^0.6.3-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
@@ -54,7 +54,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-videopress/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "0.57.x-dev"
+			"dev-trunk": "0.58.x-dev"
 		},
 		"version-constants": {
 			"::PACKAGE_VERSION": "src/class-package-version.php"
