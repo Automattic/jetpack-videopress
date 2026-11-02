@@ -6,11 +6,11 @@
 // translation files resolve. Never loaded at runtime: the generated PHP
 // loaders are pinned to the .min.js sibling.
 
-/* translators: accessibility text appended to link text */
-__( "(opens in a new tab)", "jetpack-videopress-pkg" );
+__( "Loading", "jetpack-videopress-pkg" );
 /* translators: %s: keyboard shortcut. */
 __( "Keyboard shortcut: %s", "jetpack-videopress-pkg" );
-__( "Loading", "jetpack-videopress-pkg" );
+/* translators: accessibility text appended to link text */
+__( "(opens in a new tab)", "jetpack-videopress-pkg" );
 __( "Close", "jetpack-videopress-pkg" );
 __( "Dismiss", "jetpack-videopress-pkg" );
 __( "Sections", "jetpack-videopress-pkg" );
@@ -137,12 +137,12 @@ __( "VideoPress needs a connection to WordPress.com before you can upload and ma
 __( "Connecting…", "jetpack-videopress-pkg" );
 __( "Connect", "jetpack-videopress-pkg" );
 __( "Checkout could not start. Please try again.", "jetpack-videopress-pkg" );
+__( "An error occurred. Please try again.", "jetpack-videopress-pkg" );
 /* translators: %1$s: the discount amount */
 __( "%1$s%% off", "jetpack-videopress-pkg" );
 __( "/month, billed yearly", "jetpack-videopress-pkg" );
 __( "Get VideoPress", "jetpack-videopress-pkg" );
 __( "Start for free", "jetpack-videopress-pkg" );
-__( "An error occurred. Please try again.", "jetpack-videopress-pkg" );
 __( "Upload one video", "jetpack-videopress-pkg" );
 __( "Your setting couldn’t be saved. Please try again.", "jetpack-videopress-pkg" );
 __( "Video settings", "jetpack-videopress-pkg" );

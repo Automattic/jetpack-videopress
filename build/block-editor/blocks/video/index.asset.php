@@ -4,6 +4,7 @@
 		'jetpack-script-data',
 		'jetpack-shared-stores',
 		'react',
+		'react-dom',
 		'react-jsx-runtime',
 		'wp-a11y',
 		'wp-api-fetch',
@@ -28,5 +29,5 @@
 		'wp-theme',
 		'wp-url'
 	),
-	'version' => 'ca8eae04fc22efbdc6c6'
+	'version' => '996a7722d9a9d2490776'
 );
